@@ -18,19 +18,7 @@ The script conducts the following analysis tasks:
 
 - Correlation and regression: It calculates the correlation coefficient and performs linear regression analysis between mouse weight and average observed tumor volume for the Capomulin treatment regimen, and plots the linear regression model on top of the scatter plot.
 
-## Usage
-
-To use the script, ensure you have Python installed along with the necessary libraries: Pandas, Matplotlib, NumPy, and SciPy. Then, clone the repository and execute the script in a Python environment.
-
-```bash
-git clone https://github.com/yourusername/pymaceuticals-analysis.git
-cd pymaceuticals-analysis
-python analysis_script.py
-```
-
-Make sure to replace `yourusername` with your GitHub username.
-
 ## Files Included
 
-- `analysis_script.py`: The Python script for data analysis.
+- `pymaceuticals_starter.py`: The Python script for data analysis.
 - `data/`: Directory containing the input data files (`Mouse_metadata.csv` and `Study_results.csv`).
